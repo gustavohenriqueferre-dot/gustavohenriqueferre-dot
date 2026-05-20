@@ -19,11 +19,11 @@ Atualmente aprofundando meus conhecimentos em programação e desenvolvimento, b
 
 ## 🎓 Sobre mim
 
-- 🏫 Estudante no **Senac SP** — Curso de Desenvolvimento Web (HTML5 e CSS3)
-- 🌱 Atualmente estudando **JavaScript**, **CSS Grid** e **Responsividade**
-- 💡 Interesse em **UI/UX**, **acessibilidade** e **boas práticas web**
-- 🎯 Objetivo: conseguir minha primeira vaga como **desenvolvedor(a) front-end**
-- ⚡ Curiosidade: [escreva algo pessoal aqui — ex: "Amo café e resolver desafios de lógica"]
+- 🏫 Estudante no **Senac SP** — Curso de Tecnologia da informação (HTML5 CSS3)
+- 🌱 Atualmente estudando **JavaScript**, **CSS Grid** e **Responsividade** 
+- 💡 Interesse em **hardware**, **aplicaçoes de softaware** e **programação** 
+- 🎯 Objetivo: conseguir minha primeira vaga na **area de T.I ou correlacionadas**
+- ⚡ Curiosidade: Eu adoro jogos e recentemente estou estudando codigos para criação de mods.
 
 ---
 
