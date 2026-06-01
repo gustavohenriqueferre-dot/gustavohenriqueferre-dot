@@ -87,7 +87,7 @@ Sinta-se à vontade para me chamar!
 
 <div align="center">
 
-**Feito com dedicação por [Seu Nome] — Senac SP 🧡💙**
+**Feito com dedicação por Gustavo — Senac SP 🧡💙**
 
 ![Visitors](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=1A3A6B&style=flat-square&label=Visitantes)
 
